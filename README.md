@@ -32,7 +32,7 @@ In this project I used a load cell with ESP32 publishing on an MQTT server Mosqu
 ### ESP32
 For menage files on ESP32 was used PlatformIO extesion in vscode, so this direcotry is the entire PlatformIO project, it can imported direct.  
 
-This is the connections between ESP32 and load cell.
+This is the connections between ESP32 and load cell. This schematic was made on Fritzing software. 
 
 ![](prints/schematic.png)
 
