@@ -37,7 +37,7 @@ This is the connections between ESP32 and load cell. This schematic was made on 
 ![](prints/schematic.png)
 
 ### MQTT   
-mqtt directory contains the conf file of mosquitto, this file stay orinaly in /etc/mosquitto.conf. The only difference between original file and this file is the two lines above, that enable web socks for connection with wint Eclipse Paho JavaScript Client.
+mqtt directory contains the conf file of mosquitto, this file stay orinaly in /etc/mosquitto.conf. The only difference between original file and this file is the two lines above, that enable web socks for connection with Eclipse Paho JavaScript Client.
 
 ```
 listener 8080
