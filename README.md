@@ -2,6 +2,7 @@
 
 In this project I used a load cell with ESP32 publishing on an MQTT server Mosquitto on Digital Ocean, with this, making it acessible from the browser.
 
+```
 .
 ├── README.md
 ├── esp32
@@ -26,7 +27,7 @@ In this project I used a load cell with ESP32 publishing on an MQTT server Mosqu
     ├── interface.png
     ├── schematic.png
     └── subscribe.png
-
+```
 
 ### ESP32
 For menage files on ESP32 was used PlatformIO extesion in vscode, so this direcotry is the entire PlatformIO project, it can imported direct.  
