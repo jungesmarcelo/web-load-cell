@@ -5,17 +5,17 @@ In this project I used a load cell with ESP32 publishing on an MQTT server Mosqu
 To make connection between front-end and mosquitto was used a lib called Eclipse Paho JavaScript Client. This files stay inside the nginx directory.
 
 │   
-## ESP32
+### ESP32
 │   
 ├── esp32
 │   
-## MQTT   
+### MQTT   
 │   
 │   
 ├── mosquitto
 │   └── mosquitto.conf
 │   
-# Front-end 
+### Front-end 
 │   
 │   
 ├── nginx
@@ -24,7 +24,7 @@ To make connection between front-end and mosquitto was used a lib called Eclipse
 │   ├── mqttws31.js
 │   └── styles.css
 │   
-## Imagens  
+### Imagens  
 │   
 └── prints
     ├── connect.png
@@ -35,6 +35,6 @@ To make connection between front-end and mosquitto was used a lib called Eclipse
 
 ![](prints/connect.png)
 
-![](prints/subscrible.png)
+![](prints/subscribe.png)
 
 
